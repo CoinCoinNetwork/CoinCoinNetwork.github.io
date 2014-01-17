@@ -1,7 +1,7 @@
 CoinCoinNetwork.github.io
 =========================
 
-Website source code
+Website Source Code
 =========================
 
 This is the official Github and source code for the CoinCoin Network. 
